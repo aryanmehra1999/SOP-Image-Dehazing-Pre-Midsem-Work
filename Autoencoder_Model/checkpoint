@@ -1,0 +1,4 @@
+model_checkpoint_path: "Autoencoder.ckpt-19"
+all_model_checkpoint_paths: "Autoencoder.ckpt-17"
+all_model_checkpoint_paths: "Autoencoder.ckpt-18"
+all_model_checkpoint_paths: "Autoencoder.ckpt-19"
